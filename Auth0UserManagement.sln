@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth0UserManagement", "Auth0UserManagement\Auth0UserManagement.csproj", "{87681665-BE90-4904-A3E7-60205DE04F95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0UserManagementTest", "Auth0UserManagementTest\Auth0UserManagementTest.csproj", "{8F3C1AB4-B129-436A-BD83-F2ACF2FC341C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87681665-BE90-4904-A3E7-60205DE04F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87681665-BE90-4904-A3E7-60205DE04F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87681665-BE90-4904-A3E7-60205DE04F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87681665-BE90-4904-A3E7-60205DE04F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3C1AB4-B129-436A-BD83-F2ACF2FC341C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3C1AB4-B129-436A-BD83-F2ACF2FC341C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3C1AB4-B129-436A-BD83-F2ACF2FC341C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3C1AB4-B129-436A-BD83-F2ACF2FC341C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C0F358F-16F2-4C77-B7BD-1D493B7AA359}
+	EndGlobalSection
+EndGlobal
